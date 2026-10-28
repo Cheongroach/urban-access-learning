@@ -1,0 +1,36 @@
+{
+  "seed": 20261026,
+  "features": [
+    "length_m",
+    "sinuosity",
+    "end_degree_mean",
+    "health_within_400m",
+    "transit_within_400m",
+    "grocery_within_400m",
+    "park_within_400m",
+    "school_within_400m",
+    "community_within_400m",
+    "library_within_400m",
+    "nearest_health_m",
+    "way_type"
+  ],
+  "spatial_buffer_m": 500,
+  "n_spatial_groups": 5,
+  "inspection_fractions": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "random_repeats": 200,
+  "versions": {
+    "python": "3.11.2",
+    "numpy": "2.3.5",
+    "pandas": "3.0.5",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.11.1"
+  },
+  "source_hash": "4f5640b3637d6f47b223533f8ba811451a0131125b95e00451d54ee8e7a43ccc",
+  "label_definition": "negative type; severity>=2 except NoSidewalk; agree>=2 and agree>disagree",
+  "cohort": "status=open; outdated=false; length>=1m; audit_count>=2"
+}

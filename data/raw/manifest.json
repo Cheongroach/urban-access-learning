@@ -1,0 +1,29 @@
+{
+  "streets": {
+    "url": "https://sidewalk-sea.cs.washington.edu/v3/api/streets?filetype=geojson",
+    "retrieved_at_utc": "2026-10-26T01:41:13.790715+00:00",
+    "raw_sha256": "212fbc598ef1a7176f64e46b191467c63980ed9feba45c8cec737c00cfb8f3c9",
+    "gzip_sha256": "be46d9300d314463e382b46222ae6d878919bc44589d42a5f6e38bde85c9b32c",
+    "features": 21224,
+    "raw_bytes": 18267441,
+    "license": "ODbL (OSM-derived)"
+  },
+  "clusters": {
+    "url": "https://sidewalk-sea.cs.washington.edu/v3/api/labelClusters?filetype=geojson",
+    "retrieved_at_utc": "2026-10-26T01:42:36.735521+00:00",
+    "raw_sha256": "c8673aefc7c1a83521017fc40fbb172e36672487979b8924b5074027fab86f87",
+    "gzip_sha256": "bded216de1d58afe8d53757594ca95ebe79a988f0f615106d2e6bfc1850e7508",
+    "features": 127773,
+    "raw_bytes": 74267986,
+    "license": "CC0 (annotations)"
+  },
+  "places": {
+    "url": "https://sidewalk-sea.cs.washington.edu/v3/api/places?filetype=geojson",
+    "retrieved_at_utc": "2026-10-26T01:40:08.231497+00:00",
+    "raw_sha256": "5cfe57c7088093a2a755a4c5df0c683037653a2ad167af28f28922229f958dc7",
+    "gzip_sha256": "0e19215c4313dccb9e4e97f5b3eb6a0792ee5a7b9a13d7406789859e1649bde4",
+    "features": 4344,
+    "raw_bytes": 1923376,
+    "license": "ODbL (OSM-derived)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "raw_streets": 21224,
+  "raw_clusters": 127773,
+  "raw_places": 4344,
+  "open_current_streets_before_length_filter": 7916,
+  "analysis_current_streets": 7916,
+  "excluded_under_1m": 0,
+  "cohort_streets": 6500,
+  "cohort_positive": 3633,
+  "cohort_regions": 79,
+  "qualifying_clusters_all": 26696,
+  "qualifying_clusters_cohort": 10588,
+  "qualifying_clusters_unknown_street_id": 0,
+  "status_counts": {
+    "open": 18105,
+    "closed": 2636,
+    "no_imagery": 286,
+    "disabled": 197
+  },
+  "place_categories": {
+    "transit": 2476,
+    "park": 933,
+    "school": 280,
+    "health": 257,
+    "community": 219,
+    "grocery": 110,
+    "library": 54,
+    "government": 15
+  },
+  "cohort_image_year_counts": {
+    "2007": 12,
+    "2008": 27,
+    "2009": 2,
+    "2011": 165,
+    "2012": 17,
+    "2013": 26,
+    "2014": 203,
+    "2015": 152,
+    "2016": 164,
+    "2017": 180,
+    "2018": 3148,
+    "2019": 4691,
+    "2020": 475,
+    "2021": 730,
+    "2022": 369,
+    "2023": 200,
+    "2024": 17,
+    "2025": 10
+  }
+}
